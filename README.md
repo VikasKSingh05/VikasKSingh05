@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Vikas & I'm on a curiosity voyage.</h2>
+![codig](https://github.com/user-attachments/assets/baacc9a0-cc58-4e71-9aa3-4e0be3f4648c)
+
+<h2 align="left">Hi 👋! My name is Vikas.</h2>
+
+## 👩‍💻 About Me:
+- Sophomore at KIET.
+- I am on a curiosity voyage!
+- Enjoy the company of others, so feel free to connect.
 
 ###
 
