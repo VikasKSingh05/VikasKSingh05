@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me:
 - Sophomore at KIET.
-- I am on a curiosity voyage!
+- On a curiosity voyage!
 - Enjoy the company of others, so feel free to connect.
 
 ###
