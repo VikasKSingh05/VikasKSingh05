@@ -1,9 +1,6 @@
 ![codig](https://github.com/user-attachments/assets/baacc9a0-cc58-4e71-9aa3-4e0be3f4648c)
 
-<h2 align="left">Hi👋! Some call me Vikas... You can too!</h2>
-
 ## 👩‍💻 About Me:
-- Sophomore at KIET.
 - On a curiosity voyage!
 - Enjoy the company of others, so feel free to connect.
 
